@@ -1,4 +1,6 @@
+URL LINK: https://vraj141.github.io/Os-Disk-Scheduling/
 How to use website:
+
 YOUTUBE LINK : https://youtu.be/zKbXfq6zOSw
 1)	Open index.html in web browser.
 2)	You can click on various buttons right at the top stating FCFS, SSTF, ..etc which will take you to the information section of that algorithm along with its illustration.
